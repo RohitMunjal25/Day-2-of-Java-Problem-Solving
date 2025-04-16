@@ -3,23 +3,26 @@ In the day 2 I learn about the basic of java and made the program of some proble
 
 Problems i have solved are following:-
 
-6. Type Casting 
+1. Type Casting 
 o Create a program to demonstrate implicit and explicit type casting 
 between int, double, and float. 
-7. If-Else Statement 
+2. If-Else Statement 
 o Take an integer input from the user and check: 
-▪ If the number is positive, negative, or zero. 
-8. Loop & Pattern Printing 
+▪ If the number is positive, negative, or zero.
+
+3. Loop & Pattern Printing 
 o Print the following pattern using a loop: 
 * 
 * * 
 * * * 
 * * * * 
-9. Pattern Matching (String Matching) 
+
+4. Pattern Matching (String Matching) 
 o Take two strings as input from the user. 
 o Check if the second string is a substring of the first string. 
 o Print "Match Found" or "No Match". 
-10. Nested Loops - Advanced Pattern Printing 
+
+5. Nested Loops - Advanced Pattern Printing 
 • Print the following number pattern: 
 1 
 1 2 
